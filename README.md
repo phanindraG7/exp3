@@ -1,1 +1,1 @@
-# CSS_TASK-6
+# CSS_TASK
